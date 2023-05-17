@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c:CirclePage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:c="clr-namespace:Tizen.Wearable.CircularUI.Forms;assembly=Tizen.Wearable.CircularUI.Forms"
+             x:Class="Wearable.MainPage">
+
+    <c:CirclePage.Content>
+
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Button Text="Unlock"
+                    x:Name="lockButton"
+              VerticalOptions="Start"
+              HorizontalOptions="Center" 
+              Clicked="Button_Clicked_Lock"/>
+            <Button Text="Precondition" 
+                    Clicked="Button_Clicked_Precondition"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"/>
+            <Button Text="Launch Store"
+              VerticalOptions="End"
+              HorizontalOptions="Center" 
+              Clicked="Button_Clicked_LaunchStore"/>
+            
+            
+            <Label Text="{Binding ReceivedMessage}" HorizontalTextAlignment="Center"/>
+        </StackLayout>
+    </c:CirclePage.Content>
+</c:CirclePage>

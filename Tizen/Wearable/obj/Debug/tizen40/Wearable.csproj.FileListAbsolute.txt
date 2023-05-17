@@ -1,0 +1,39 @@
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\bin\Debug\tizen40\Wearable.deps.json
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\bin\Debug\tizen40\Wearable.dll
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\bin\Debug\tizen40\Wearable.pdb
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.csproj.AssemblyReference.cache
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\App.xaml.g.cs
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\MainPage.xaml.g.cs
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.AssemblyInfoInputs.cache
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.AssemblyInfo.cs
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.csproj.CoreCompileInputs.cache
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\XamlC.stamp
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.dll
+C:\Users\Wake\Google Drive\Dev\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.pdb
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.csproj.AssemblyReference.cache
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\App.xaml.g.cs
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\MainPage.xaml.g.cs
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.AssemblyInfoInputs.cache
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.AssemblyInfo.cs
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.csproj.CoreCompileInputs.cache
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.dll
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\Wearable.pdb
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\bin\Debug\tizen40\Wearable.deps.json
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\bin\Debug\tizen40\Wearable.dll
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\bin\Debug\tizen40\Wearable.pdb
+C:\Users\Wake\Google Drive\Dev\Carmy_Wearable\Tizen\WearableExampleWithCompanion\Wearable\obj\Debug\tizen40\XamlC.stamp
+D:\Dev\Carmy_Wearable\Tizen\Wearable\bin\Debug\tizen40\Wearable.deps.json
+D:\Dev\Carmy_Wearable\Tizen\Wearable\bin\Debug\tizen40\Wearable.dll
+D:\Dev\Carmy_Wearable\Tizen\Wearable\bin\Debug\tizen40\Wearable.pdb
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\Wearable.csproj.AssemblyReference.cache
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\Wearable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\App.xaml.g.cs
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\MainPage.xaml.g.cs
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\Wearable.AssemblyInfoInputs.cache
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\Wearable.AssemblyInfo.cs
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\Wearable.csproj.CoreCompileInputs.cache
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\XamlC.stamp
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\Wearable.dll
+D:\Dev\Carmy_Wearable\Tizen\Wearable\obj\Debug\tizen40\Wearable.pdb
